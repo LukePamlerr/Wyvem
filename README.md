@@ -20,9 +20,4 @@ This scaffold is NOT a finished panel. It provides:
 - Stubs for a Laravel backend and Vue frontend.
 - Documentation and an SSO feature plan.
 
-See docs at [https://github.com/LukePamlerr/Wyvem/tree/main/GitHub/Wyvem/docs}(Windows , Linux - Ubuntu , Debian , CentOS official guides)
-
-Next steps:
-- Implement the Laravel backend with full Pterodactyl API compatibility.
-- Implement the Vue admin UI and user-facing pages.
-- Add advanced SSO providers (OIDC, SAML, LDAP, OAuth2).
+See docs at [https://github.com/LukePamlerr/Wyvem/tree/main/GitHub/Wyvem/docs}
