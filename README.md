@@ -20,7 +20,7 @@ This scaffold is NOT a finished panel. It provides:
 - Stubs for a Laravel backend and Vue frontend.
 - Documentation and an SSO feature plan.
 
-See docs/INSTALL_LINUX.md for quick Linux setup instructions.
+See docs at [https://github.com/LukePamlerr/Wyvem/tree/main/GitHub/Wyvem/docs}(Windows , Linux - Ubuntu , Debian , CentOS official guides)
 
 Next steps:
 - Implement the Laravel backend with full Pterodactyl API compatibility.
